@@ -30,8 +30,8 @@ Este espaço foi criado com o objetivo de ensinar, na prática, os fundamentos d
 ### Lógica de programação em python
 
 - [ ] ambientação
-- [ ] variaveis
-- [ ] entrada e saida de dados
+- [x] variaveis
+- [x] entrada e saida de dados
 - [ ] estruturas condicionais
     - [ ] If, elif e else
     - [ ] match case
