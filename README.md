@@ -29,14 +29,14 @@ Este espaço foi criado com o objetivo de ensinar, na prática, os fundamentos d
 
 ### Lógica de programação em python
 
-- [ ] ambientação
+- [x] ambientação
 - [x] variaveis
 - [x] entrada e saida de dados
-- [ ] estruturas condicionais
-    - [ ] If, elif e else
-    - [ ] match case
-- [ ] estruturas de repetição
-    - [ ] for
-    - [ ] while
-- [ ] listas
-- [ ] dicionarios
+- [x] estruturas condicionais
+    - [x] If, elif e else
+    - [x] match case
+- [x] estruturas de repetição
+    - [x] for
+    - [x] while
+- [x] listas
+- [x] dicionarios
